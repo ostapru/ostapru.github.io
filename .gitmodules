@@ -1,0 +1,3 @@
+[submodule "web-ai-demos"]
+	path = web-ai-demos
+	url = https://github.com/GoogleChromeLabs/web-ai-demos
